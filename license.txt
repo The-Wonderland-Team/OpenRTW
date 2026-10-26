@@ -1,0 +1,18 @@
+Licence Information
+===================
+
+By downloading and using this code your are agreeing to the following terms. (If you do not agree, please delete the files).
+
+1. The code is offered in the spirit of growing and continuing the options available to the Wonderland community. 
+
+2. As such, any developments cannot be published/distributed beyond the community forums. You may create external repositories for development, but you should publish a post on the community forums with link to your repository. 
+
+3. All repositories or other developments need to include a copy of this license information.
+
+4. All developments must be offered for free and cannot be published for profit. 
+
+5. Open Source does not equal Free. RTW, TOW and WSW are still available for purchase. To this end:
+a) You cannot use this code to attempt to circumvent the legal purchase of a game.
+b) You cannot distribute any of the other game's resources (graphics, music, etc). 
+
+6. Use at your own risk! Community developed code is not checked by Midnight Synergy. You are own your own if you download compile these files.
