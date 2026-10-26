@@ -1,0 +1,13 @@
+*.dat
+*.exe
+*.dll
+*.tmp
+
+players
+CustomLevels
+CustomModels
+CustomHouses
+CustomTextures
+CustomBackgrounds
+
+.vscode
